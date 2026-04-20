@@ -13,8 +13,8 @@ cleaning, SQLite database creation, SQL querying, and visualization.
 Filtered to Maryland providers | n = 223,406 records
 
 ## Tools & Languages
-- **Python** — pandas, matplotlib, seaborn (cleaning & visualization)
-- **SQL** — SQLite (database creation & querying)
+- **Python** : pandas, matplotlib, seaborn (cleaning & visualization)
+- **SQL** : SQLite (database creation & querying)
 
 ## Repository Structure
 - `01_cms_data_analysis.ipynb` — full analysis notebook
